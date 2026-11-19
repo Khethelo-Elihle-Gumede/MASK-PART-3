@@ -14,3 +14,33 @@ React Native
 Javascript
 Visual Studio Code to built this whole POE.
 
+The features on this application Menu Management, Menu Information, User Experience, Menu Statistics, Search and Filtering.
+
+What to find in all the features....
+
+In the Menu Management:
+-Update the menu 
+-View all selling items
+-Delete items in the menu
+
+In the Menu Information:
+-Dish Price
+-Dish Names
+-Course
+
+In The User Experience:
+-User Friendly Interface
+-Same Layout
+-Same Navigation
+
+In the Menu Statistics:
+-Total number of different courses
+-The average prices of dishes
+
+In the Search and Filtering:
+-Search dish names 
+-Filter dishes
+
+My conclusion of the Christoffel Chefs Manager I show all my knowledge I gained in class on React Native. This knowledge helped me build this mobile application for the manager to keep in tabs with what's happening in the restaurant. 
+
+
