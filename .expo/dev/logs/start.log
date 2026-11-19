@@ -1,0 +1,32 @@
+{"_e":"root:init","_t":1792488561957,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1792488562014,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792488562062,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792488593007,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792488618442,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1792488630150,"level":"error","data":["An unexpected error occurred while installing the latest version of React Native DevTools. Using a fallback version instead. Details:\n\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1792488634628,"plugins":[]}
+{"_e":"metro:instantiate","_t":1792488666537,"atlas":false,"workers":3,"host":"::","port":8081}
+{"_e":"root:init","_t":1795104092613,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1795104092616,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1795104092660,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1795104108205,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1795104122636,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1795104129694,"level":"error","data":["An unexpected error occurred while installing the latest version of React Native DevTools. Using a fallback version instead. Details:\n\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1795104132729,"plugins":[]}
+{"_e":"metro:instantiate","_t":1795104157681,"atlas":false,"workers":3,"host":"::","port":8081}
+{"_e":"root:init","_t":1795105508989,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1795105508991,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1795105508995,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1795105544027,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1795105545421,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1795105546110,"level":"error","data":["An unexpected error occurred while installing the latest version of React Native DevTools. Using a fallback version instead. Details:\n\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1795105546553,"plugins":[]}
+{"_e":"metro:instantiate","_t":1795105551387,"atlas":false,"workers":3,"host":"::","port":8082}
+{"_e":"root:init","_t":1795105780454,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1795105780456,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1795105780461,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1795105843354,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1795105846395,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1795105847029,"level":"error","data":["An unexpected error occurred while installing the latest version of React Native DevTools. Using a fallback version instead. Details:\n\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1795105847976,"plugins":[]}
+{"_e":"metro:instantiate","_t":1795105853881,"atlas":false,"workers":3,"host":"::","port":8083}
